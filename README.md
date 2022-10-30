@@ -28,3 +28,6 @@ Meanwhile, the daughterboard has:
 ![daughterboard_top](https://user-images.githubusercontent.com/42936055/154925334-9c920e84-c470-4928-ab09-44eead945709.JPG)
 
 ![daughterboard_bottom](https://user-images.githubusercontent.com/42936055/154925351-61809937-bd79-4037-bc69-072ea65eea19.JPG)
+
+## Versioning
+This project uses the versioning protocol: `major.minor` where an increase in the `major` number means a breaking change in PCB design - i.e. incompatible PCBs. The `minor` number is used to denote non-breaking changes - i.e things like: changing a schematic to reference a pin-compatible component, or change a schematic to include a modpack.
